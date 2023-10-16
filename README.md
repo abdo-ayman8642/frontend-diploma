@@ -47,6 +47,14 @@ prerequisites: Javascript, DOM manipulation, ES6, Modern javascript Data structu
 
 ## [Bankist Website](https://bankist-dom.netlify.app/)
 
+will learn:
+- smooth scrolling
+- lazy loading
+- DOM traversing
+- Advanced Events properties (delegation, bubbling)
+- Observe Intersections
+- Scripts Types
+
 ## [React To-Do List](https://652d1d0f02a0ef0658f6d890--resplendent-dragon-e602e5.netlify.app/)
 
 prerequisites: React, State management, Context Api, Browser Storage
